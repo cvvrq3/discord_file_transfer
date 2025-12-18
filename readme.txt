@@ -2,7 +2,7 @@ Hello! This is a Discord file transfer script I made. You can use it to send big
 
 I've set up a bot and a channel for transfers, so you can use it to send files to me(like the b2b mod I really want to play, or something else):
 
-- Bot Token: In archive (discord auto-resetted the token) (Install link for this bot: https://discord.com/oauth2/authorize?client_id=1451185010400038932)
+- Bot Token: In archive (password - 123, discord auto-resetted the token) (Install link for this bot: https://discord.com/oauth2/authorize?client_id=1451185010400038932)
 - Channel ID: 1451201347205599263 (My another test server: https://discord.gg/6eGSzMCs)
 
 There are two transfer modes:
@@ -28,4 +28,5 @@ Let me know if you run into any issues. I made this script in a bit over an hour
 ---
 
 P.S. Don’t forget to send me the b2b mod file when you can — I can’t download it from Mediafire(it gives err_reset_connection).
+
 
