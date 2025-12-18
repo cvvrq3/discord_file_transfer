@@ -1,0 +1,1 @@
+py bot.py UPLOAD TOKEN_HERE CHANELL_HERE 2mb.json FAST
